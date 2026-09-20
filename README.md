@@ -145,8 +145,8 @@ console.log(player.exibirNivel());
 
 Desenvolvido por Nicoly Alves dos Santos.
 
-LinkedIn: https://www.linkedin.com/in/seu-perfil  
-GitHub: https://github.com/seu-usuario
+LinkedIn: https://www.linkedin.com/in/devnicoly  
+GitHub: https://github.com/devnicoly
 
 ---
 
